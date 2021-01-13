@@ -1,0 +1,158 @@
+﻿@{
+    Layout = "_LayoutAdministrador";
+}
+
+
+<div class="row mt-1">
+
+    <div class="col-lg-9 col-12 mt-3">
+
+        <div class="pl-3 pt-2 pb-1 shadow" style="background-color:#0abbec;">
+
+            <h5 class="text-white font-weight-bold ">Mis Rendiciones solictadas </h5>
+
+        </div>
+
+        <div class="shadow bg-white">
+
+            <div class="p-2">
+
+                <div class="">
+
+                    <div class="row">
+
+                        <div class="col-12 col-lg-6">
+                            <input type="type" class="form-control form-control-sm rounded-0 mt-2 w-100 " placeholder="Filtrar" id="FiltroMisRendiciones" />
+                        </div>
+
+                        <div class="col-12 col-lg-6">
+                            <select class="form-control form-control-sm rounded-0 w-50 float-right mt-2" id="order">
+                                <option selected hidden value="value">Ordenar por</option>
+                                <option value="ASC">Por fecha ascedente</option>
+                                <option value="DESC">Por fecha descendente</option>
+                                <option value="APROBACION_JEFE">Estado</option>
+                                <option value="Aprobado" class="font-weight-bold">Aprobados</option>
+                                <option value="Sap" class="font-weight-bold">En Revisión Contable</option>
+                                <option value="Proceso" class="font-weight-bold">En Proceso</option>
+                                <option value="Rechazada" class=" font-weight-bold">Rechazados</option>
+                            </select>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+
+
+
+                <div class="table-responsive p-1 mt-3">
+
+                    <table class="table table-striped table-bordered table-hover w-100 " id="TablaRendiciones">
+
+                        <thead class="thead-dark w-100 ">
+
+                            <tr>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;"></th>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Numero</th>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Fecha Solicitud</th>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Fecha necesario</th>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Comentario</th>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Estado</th>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Modificar</th>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Eliminar</th>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Ver Detalle</th>
+                            </tr>
+
+                        </thead>
+
+                        <tbody>
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <div class="col-12 col-lg-3 mt-3">
+
+        <div class="pl-3 pt-2 pb-1 shadow" style="background-color:#0abbec;">
+
+            <h5 class="text-white font-weight-bold ">Estados</h5>
+
+        </div>
+
+
+        <div class="row">
+
+            <div class="">
+
+                <div class="col-lg-12 col-12   ">
+
+                    <table class="table table-striped table table-striped table-bordered table-hover w-100 bg-white shadow">
+                        <thead>
+                            <tr>
+
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;" scope="col">Estado</th>
+                                <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;" scope="col">Leyenda</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+
+                                <td height="13px;" style="width:10px;" class="text-center"> <img height="11px" src="~/img/potencia.png"> </td>
+                                <td height="13px;" scope="col" class="text-center" style="font-size: 13px; font-weight: 400;">Aprobado</td>
+                            </tr>
+                            <tr>
+
+                                <td height="13px;" style="width:10px;" class="text-center"> <img height="11px" src="~/img/Ssap.png"></td>
+                                <td height="13px;" scope="col" class="text-center" style="font-size: 13px; font-weight: 400;">Revisión contable</td>
+                            </tr>
+                            <tr>
+
+                                <td height="13px;" style="width:10px;" class="text-center"> <img height="11px" src="~/img/state.png"> </td>
+                                <td height="13px;" scope="col" class="text-center" style="font-size: 13px; font-weight: 400;">En Proceso</td>
+                            </tr>
+                            <tr>
+
+                                <td height="13px;" style="width:10px;" class="text-center"> <img height="11px" src="~/img/poder.png"></td>
+                                <td height="13px;" scope="col" class="text-center" style="font-size: 13px; font-weight: 400;">Rechazada</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+</div>
+
+
+@section scripts {
+    <script src="~/js/API/documentos/MisRendiciones.js"></script>
+
+    <script>
+        $("#menu-toggle").click(function (e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+    </script>
+
+
+}

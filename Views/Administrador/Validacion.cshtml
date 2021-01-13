@@ -1,0 +1,129 @@
+﻿@{
+    Layout = "_LayoutAdministrador";
+}
+
+<div class="container-fluid mt-3">
+
+    <div class="row pl-0 pr-0">
+
+        <div class="pl-0 pr-0  col-lg-6 col-12 ">
+
+            <div class="p-2">
+
+                <div class="bg-white shadow">
+
+                    <div class="shadow pl-3 pb-1 " style="background-color:#0abbec;">
+                        <div class=" pt-2 ">
+                            <h5 class="text-white font-weight-bold">Validación documentos</h5>
+                        </div>
+                    </div>
+
+                    <div class="container">
+
+                        <div class="mt-3">
+
+                            <span>Configure si proyecto y centro de costos son obligatorios para los documentos fondos por rendir y rendicion.</span>
+
+                            <div class="mt-3 ">
+                                <h6 class="text-info font-weight-bold">Seleccione el campo que deseé validar.</h6>
+                            </div>
+                            
+
+                        </div>
+                        
+
+                        <div class="row pl-0 pr-0 mt-2 pb-3">
+
+                            <div class="col-lg-6 p-2 col-12  ">
+
+                                <div class="p-2">
+
+                                    <div class="border shadow rounded bg-white p-3">
+                                        <div class="text-center pb-1">
+                                            <h5 class="text-dark ">Validar fondo por rendir</h5>
+
+                                            <hr />
+                                        </div>
+
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="" id="1P">
+                                            <label class="form-check-label" for="defaultCheck1">
+                                                Proyectos
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check mt-2">
+                                            <input class="form-check-input" type="checkbox" value="" id="1CC">
+                                            <label class="form-check-label" for="defaultCheck2">
+                                                Centros de costos
+                                            </label>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+
+                            <div class="col-lg-6 p-2 col-12  ">
+
+                                <div class="p-2">
+
+                                    <div class="border rounded  bg-white shadow p-3">
+
+                                        <div class="text-center pb-1">
+                                            <h5 class="text-dark">Validar rendicion</h5>
+                                            <hr />
+                                        </div>
+
+                                 
+
+                                        <div class="form-check ">
+                                            <input class="form-check-input" type="checkbox" value="" id="2P">
+                                            <label class="form-check-label" for="defaultCheck1">
+                                                Proyectos
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check mt-2">
+
+                                            <input class="form-check-input" type="checkbox" value="" id="2CC">
+                                            <label class="form-check-label" for="defaultCheck2">
+                                                Centros de costos
+                                            </label>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+
+            
+
+
+
+        </div>
+
+                @section scripts {
+
+                
+                    <script src="~/js/API/Administrador/PermisoDocAPI.js"></script>
+
+                    <script>
+                        $("#menu-toggle").click(function (e) {
+                            e.preventDefault();
+                            $("#wrapper").toggleClass("toggled");
+                        });
+                    </script>
+
+
+                }

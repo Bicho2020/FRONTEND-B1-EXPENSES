@@ -1,0 +1,184 @@
+﻿
+
+@{
+    Layout = "_LayoutAutorizador";
+}
+
+
+<div class="container-fluid  pb-3 mt-3" style="display:none;" >
+
+    <div class="row">
+
+            <div class="col-12 col-lg-6">
+
+                <div class="p-1">
+
+                  <div class="bg-white shadow " style="min-height: 827.5px; max-height:827.5px;">
+
+                        <div class="p-3   text-center">
+
+                            <h5 class="mt-2 font-weight-bold">MIS SOLICITUDES FONDOS</h5>
+
+                            <div class="row">
+
+      
+                                <figure class="highcharts-figure">
+                                    <div  id="container"></div>
+                                    
+                                </figure>
+
+                            </div>
+
+                            <div class="row">
+
+                                <div class="col-6 p-2">
+
+                                    <h1 id="FTOTAL" style="color: #0abbec;">0</h1>
+                                    <span style="font-size: 13px;" class="font-weight-bold">Total</span>
+
+                                </div>
+
+                                <div class="col-6 p-2">
+
+                                    <h1 id="FEN" style="color: #0abbec;">0</h1>
+                                    <span style="font-size: 13px;" class="font-weight-bold">En proceso de aprobación </span>
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+
+                                <div >
+
+                                    <h5 class="pt-4 p-3  font-weight-bold">Proceso aprobación fondos</h5>
+            
+                                    <table class="table table-bordered shadow-sm table-striped" id="TablaFondo">
+                                        <thead class="thead-dark ">
+                                            <tr>
+            
+                                                <th scope="col">Etapa</th>
+                                                <th scope="col">Aprobador</th>
+                                            
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            
+                                        </tbody>
+                                    </table>
+            
+            
+                                </div>
+                                
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+           <div class="col-12 col-lg-6">
+
+                <div class="p-1">
+
+                    <div class="bg-white shadow " style="min-height: 827.5px; max-height:827.5px;">
+
+                        <div class="p-3   text-center">
+
+                            
+
+                            <h5 class="mt-2 font-weight-bold">MIS SOLICITUDES RENDICIÓN</h5>
+
+                            <div class="row mt-3">
+
+                              
+                                <figure class="highcharts-figure">
+                                    <div id="container2"></div>
+                                    
+                                </figure>
+
+                            </div>
+
+                            <div class="row">
+
+                                <div class="col-6 p-2">
+
+                                    <h1 id="RTOTAL"  style="color: #0abbec;">0</h1>
+                                    <span style="font-size: 13px;" class="font-weight-bold">Total</span>
+
+                                </div>
+
+                                <div class="col-6 p-2">
+
+                                    <h1  id="REN"  style="color: #0abbec;">0</h1>
+                                    <span style="font-size: 13px;" class="font-weight-bold">En proceso de aprobación </span>
+
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+
+                                <div >
+
+                                    <h5 class="pt-4 p-3  font-weight-bold">Proceso aprobación fondos</h5>
+            
+                                    <table class="table table-bordered shadow-sm table-striped" id="TablaRendicion"  >
+                                        <thead class="thead-dark ">
+                                            <tr>
+            
+                                                <th scope="col">Etapa</th>
+                                                <th scope="col">Aprobador</th>
+                                            
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            
+                                          
+                                        </tbody>
+                                    </table>
+            
+            
+                                </div>
+                                
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+</div>
+
+
+@section scripts {
+
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/variable-pie.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+
+
+    <script>
+
+        $("#menu-toggle").click(function (e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+
+    </script>
+
+
+}

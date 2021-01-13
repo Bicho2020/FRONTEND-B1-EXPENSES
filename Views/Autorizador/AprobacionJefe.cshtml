@@ -1,0 +1,70 @@
+﻿
+
+@{
+    Layout = "_LayoutAutorizador";
+}
+
+
+<div class="row mt-3">
+
+    <div class="col-lg-8 col-12">
+
+        <div class="pl-3 pt-2 pb-1 shadow" style="background-color:#0abbec;">
+
+
+            <h5 class="text-white font-weight-bold">Solicitudes aprobaciones fondo por rendir</h5>
+
+        </div>
+
+
+
+
+        <div class="shadow bg-white">
+
+            <div class="p-2">
+                <input type="type" class="form-control form-control-sm rounded-0 mt-2 w-50 " placeholder="Filtrar solicitudes" id="FiltroUsuarios" />
+            </div>
+
+            <div class="table-responsive p-2">
+
+                <table class="table table-striped table-bordered table-hover w-100" id="TablaListarUsuariosAdministradores">
+
+                    <thead class="thead-dark ">
+
+                        <tr>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Codigo</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">usuario</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Fecha solicitud</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Fecha requerida</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Comentario</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Detalle</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section scripts {
+
+    <script src="~/js/API/Aprobacion/AprobacionJefe.js"></script>
+
+    <script>
+        $("#menu-toggle").click(function (e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+    </script>
+
+
+}

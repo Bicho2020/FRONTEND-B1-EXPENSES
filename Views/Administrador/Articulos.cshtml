@@ -1,0 +1,153 @@
+﻿@{
+    Layout = "_LayoutAdministrador";
+}
+
+
+
+
+<div class="row">
+
+    <div class="col-lg-5 col-sm-12 col-md-12 col-12   pt-3 ">
+
+        <div class="col-12 shadow bg-white  pb-2 border  ">
+
+            <div style="background-color:#0abbec;" class="  p-2 ">
+
+                <div class="float-left ml-3">
+                    <span style="font-size: 18px;" class="text-white font-weight-bold ">
+                        Registrar
+                        Articulo
+                    </span>
+                </div>
+                <br>
+
+            </div>
+
+            <form class="container-fluid mt-3" onsubmit="GuardarArticulo(event)">
+
+                <span class="text-dark">Formulario para registro de articulo. <span class="text-danger  pl-3 " style="font-weight: 500; font-size:14px;">* Campos  Obligatorios</span> </span>
+
+
+                <div class="row mt-2 ">
+
+                    <div class="col-12 col-lg-6 pt-2">
+
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">Codigo Articulo <span class="text-danger"> * </span> </label>
+                            <input id="cod_art"  type="text" class="  form-control rounded-0 mt-2 form-control-sm" required>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-6 pt-2">
+
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">Plan de cuenta <span class="text-danger"> * </span> </label>
+                            <select class="  form-control rounded-0 mt-2 form-control-sm" id="myselect" required>
+                                <option value="0" selected>Seleccione plan de cuenta</option>
+                            </select>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row ">
+
+                    <div class="col-12 col-lg-6 pt-2">
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">Nombre<span class="text-danger"> * </span> </label>
+                            <input placeholder="Ingrese nombre del articulo" type="text" class="form-control rounded-0 mt-2 form-control-sm" id="txt_nombre_articulo" required>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row ">
+
+                    <div class="mt-1 pb-2">
+                        <button type="submit" style="background-color:#0abbec; border-color:#5abeda ;"
+                                class="btn rounded-0 btn-primary btn-sm shadow font-weight-bold mt-3 float-right">
+                            Registrar Articulo
+                        </button>
+                    </div>
+
+                </div>
+
+            </form>
+
+        </div>
+
+
+    </div>
+
+    <div class="col-lg-7 col-sm-12 mt-3 col-md-12 col-12 col-md-12 ">
+
+        <div class="col-12 shadow bg-white    ">
+
+            <div style="background-color:#0abbec;" class="   p-2 ">
+
+                <div class="float-left ml-3">
+                    <span style="font-size: 18px;" class="text-white font-weight-bold  ">
+                        Lista de
+                        Articulos registrados
+                    </span>
+
+                </div>
+
+                <div class="float-right">
+                 
+
+                </div>
+                <br>
+
+            </div>
+
+            <div class="p-2">
+                <input type="type" class="form-control form-control-sm rounded-0 mt-2 w-50  " placeholder="Filtrar Articulos" id="FiltroArticulos" />
+
+            </div>
+
+            <div class="table-responsive p-2">
+
+                <table class="table table-striped table table-striped table-bordered  table-hover" id="TablaListarArticulos">
+
+                    <thead class="thead-dark ">
+                        <tr>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">CODIGO</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">COD SOCIEDAD</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">COD CUENTA</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Nombre Articulo</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Modificar</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Opcion</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+
+            </div>
+
+
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+@section scripts {
+
+
+    <script src="~/js/API/Administrador/ArticuloAPI.js"></script>
+    <script>
+        $("#menu-toggle").click(function (e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+    </script>
+
+
+}

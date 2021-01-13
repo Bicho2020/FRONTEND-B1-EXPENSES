@@ -1,0 +1,473 @@
+﻿@{
+    Layout = "_LayoutAdministrador";
+}
+
+
+
+<div class="container-fluid mt-3">
+
+    <div class="row">
+
+        <div class="col-12 shadow   " style="background-color:#0abbec;">
+
+            <div class="float-left pt-2 ">
+                <h5 class="text-white font-weight-bold">Rendición</h5>
+            </div>
+
+            <div class="float-right pt-1 mt-1 pr-1">
+                <i class="fas fa-lg text-white  fa-calendar-minus"></i>
+            </div>
+
+        </div>
+
+
+        <div class="col-12 bg-white shadow pb-3">
+
+            <form class="container-fluid mt-3" onsubmit="Cargar(event);">
+
+                <span class="text-dark">
+                    Formulario para la creacion de una Rendición. <span class="text-danger  pl-3 " style="font-weight: 500; font-size:14px;">
+                        * Campos
+                        Obligatorios
+                    </span>
+                </span>
+
+                <div class="row ">
+
+                    <div class="col-12 col-lg-12 pt-2">
+                        <div class="form-group mt-2">
+                            <label for="" class="text-dark " style="font-weight: 500;">
+                                Número Fondo<span class="text-danger"> * </span>
+                            </label>
+                            <select type="int" class="form-control rounded-0 mt-2 form-control-sm" style="width:250px;" id="Is_fxr" required>
+                                <option value="" hidden>Seleccione una opcion</option>
+                                <option value="0">Sin fondo rendido.</option>
+                            </select>
+
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-6 pt-2">
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">
+                                Empleado solicitante<span class="text-danger"> * </span>
+                            </label>
+                            <input disabled placeholder="Ingrese nombre del servidor" type="text" class="form-control rounded-0 mt-2 form-control-sm" id="Is_Empleado" required>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-6 pt-2">
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">
+                                Sociedad<span class="text-danger"> * </span>
+                            </label>
+                            <input disabled type="text" class=" form-control rounded-0 mt-2 form-control-sm" id="Is_NombreSociedad" required>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-6 pt-2" style="display:none;">
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">
+                                Sociedad<span class="text-danger"> * </span>
+                            </label>
+                            <input disabled placeholder="Ingrese enlace type="text" class=" form-control rounded-0 mt-2 form-control-sm" id="Is_CodSociedad" required>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row ">
+
+                    <div class="col-12 col-lg-6 pt-2">
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">
+                                Seleccione un proyecto<span class="text-danger" id="2P"></span>
+                            </label>
+                            <select id="Is_Proyecto" class="form-control rounded-0 mt-2 form-control-sm">
+                                <option hidden></option>
+
+                            </select>
+
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-6 pt-2">
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">
+                                Selecione un centro de costo<span class="text-danger" id="2CC"></span>
+                            </label>
+
+                            <select id="Is_CentroCosto" class="form-control rounded-0 mt-2 form-control-sm">
+                                <option hidden></option>
+
+                            </select>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row ">
+
+                    <div class="col-12 col-lg-6 pt-2">
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">
+                                Fecha creación rendición<span class="text-danger"> *</span>
+                            </label>
+                            <input disabled id="Is_FechaCreacion" placeholder="Ingrese usuario para la sociedad" type="date"
+                                   class="form-control rounded-0 mt-2 form-control-sm" required>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-6 pt-2">
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">
+                                Fecha Requerida<span class="text-danger">
+                                    *
+                                </span>
+                            </label>
+                            <input placeholder="Ingrese" type="date" class=" form-control rounded-0 mt-2 form-control-sm" id="Is_FechaRequerida" required>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-lg-6 pt-2">
+                        <div class="form-group">
+                            <label for="" class="text-dark " style="font-weight: 500;">
+                                Comentario<span class="text-danger">
+                                    *
+                                </span>
+                            </label>
+                            <textarea class="form-control mt-2" id="Is_Comentario" rows="3" maxlength="200" required></textarea>
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="mt-4 ">
+                    <span type="submit" class=" font-weight-bold text-dark ">Total: <span class="font-weight-bold text-info " id="total"> </span></span>
+                    <span class="float-right">
+
+                        <div class="table-add">
+                            <a class="btn btn-sm btn-light border   p-2">
+                                <i aria-hidden="true">Nueva fila   <img class="pl-1" src="~/img/mas.png" height="20px" /> </i>
+                            </a>
+                        </div>
+
+                    </span>
+                </div>
+
+                <div class="table-responsive mt-5 ">
+
+                    <div id="table" class="table-editable ">
+
+                        <table id="thetable" class="table table-bordered  table-striped text-center table-hover">
+                            <thead>
+
+                                <tr>
+                                    <th style="font-size:13px;" class="text-center font-weight-bold text-info ">Codigo Artículo</th>
+                                    <th style="font-size:13px;" class="text-center  font-weight-bold  text-info ">Nombre Artículo</th>
+                                    <th style="font-size:13px ;" class="text-center  font-weight-bold   text-info  text-info   " hidden>CODIGO Centro de costo</th>
+                                    <th style="font-size:13px ;" class="text-center  font-weight-bold   text-info  text-info   ">Centro de costo</th>
+                                    <th style="font-size:13px ; " class="text-center  font-weight-bold  text-info" hidden>CODIGO Proyecto</th>
+                                    <th style="font-size:13px ; " class="text-center  font-weight-bold  text-info ">Proyecto</th>
+                                    <th style="font-size:13px ; " class="text-center" hidden>plan</th>
+                                    <th style="font-size:13px ;" class="text-center  font-weight-bold  text-info ">Descripción</th>
+                                    <th style="font-size:13px ;" class="text-center  font-weight-bold  text-info  ">Monto Solicitado</th>
+                                    <th style="font-size:13px ;" class="text-center  font-weight-bold  text-info  ">Monto Utilizado</th>
+                                    <th style="font-size:13px ;" class="text-center  font-weight-bold  text-info ">Num - Boleta</th>
+                                    <th style="font-size:13px ;" class="text-center  font-weight-bold  text-info " hidden>Tipo boleta</th>
+                                    <th style="font-size:13px ;" class="text-center  font-weight-bold  text-info ">Adjunto</th>
+
+                                </tr>
+                            </thead>
+                            <tbody id="TablaDetalle">
+                                <tr>
+
+                                    <td onclick="getFila();" class="trArticulo" style="font-size:13px;" data-toggle="modal" data-target="#ModelArticulo"></td>  <!-- CODIGO ARTICULO -->
+
+                                    <td onclick="getFila();" class="trArticulo" style="font-size:13px;" data-toggle="modal" data-target="#ModelArticulo"></td> <!-- NOMBRE ARTICULO -->
+
+                                    <td onclick="getFila();" class="trArticulo" style="font-size:13px;" data-toggle="modal" data-target="#ModalCentroCosto" hidden></td> <!-- CODIGO CENTRODE COSTO -->
+
+                                    <td onclick="getFila();" class="trArticulo" style="font-size:13px;" data-toggle="modal" data-target="#ModalCentroCosto"></td>
+
+                                    <td onclick="getFila();" class="trArticulo" style="font-size:13px;" data-toggle="modal" data-target="#ModalProyecto" hidden></td> <!-- NOMBRE CENTRO DE COSTO ARTICULO -->
+
+                                    <td onclick="getFila();" class="trArticulo" style="font-size:13px;" data-toggle="modal" data-target="#ModalProyecto"></td> <!-- NOMBRE CENTRO DE COSTO ARTICULO -->
+
+                                    <td contenteditable="true" hidden></td>
+
+                                    <td style="font-size:13px;" contenteditable="true"></td>
+
+                                    <td style="font-size:13px;" oncopy="return false" oncut="return false" onpaste="return false"></td>
+
+                                    <td style="font-size:13px;" id="myeditablediv" oncopy="return false" oncut="return false" onpaste="return false" contenteditable="true"></td>
+
+                                    <td data-toggle="modal" onclick="getFila();" class="trArticulo" data-target="#ModalBoleta" style="font-size:13px;" class="trArticulo" oncopy="return false" oncut="return false" onpaste="return false"></td>
+
+
+                                    <td data-toggle="modal" class="trArticulo" onclick="getFila();" style="font-size:13px;" oncopy="return false" oncut="return false" onpaste="return false" hidden></td>
+
+                                    <td data-toggle="modal" class="trArticulo" data-target="#ModalFoto" onclick="getFila();" style="font-size:13px;" oncopy="return false" oncut="return false" onpaste="return false"></td>
+
+
+                                    <td width="30px">
+                                        <span class="table-remove">
+                                            <a onclick="getFila();" class="btn font-weight-bold text-danger btn-sm my-0"> <img src="~/img/eliminar.png" height="16px" alt="Alternate Text" /> </a>
+                                        </span>
+                                    </td>
+
+                                </tr>
+
+                            </tbody>
+
+                        </table>
+
+                    </div>
+                </div>
+
+
+
+                <div class="row ">
+
+
+
+                    <div class="mt-1 pb-2">
+                        <button type="submit" style="background-color:#0abbec; border-color:#5abeda ;" class="btn rounded-0 btn-primary btn-sm shadow font-weight-bold mt-3 float-right">Crear rendición </button>
+                    </div>
+
+                </div>
+
+            </form>
+
+
+        </div>
+
+    </div>
+
+
+</div>
+
+
+
+<div class="modal fade bd-example-modal-lg" id="ModelArticulo" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Seleccione un Articulo</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <div class="form-group">
+                    <label>Filtrar</label>
+                    <input type="text" class=" mt-2 form-control form-control-sm pull-right rounded-0" style="width:100%" id="search" placeholder="Buscador">
+                </div>
+
+                <table class="table  table-bordered mt-4  table-hover" id="ListarArticulos">
+                    <thead>
+                        <tr>
+
+                            <th style="font-size:13px" scope="col">codigo</th>
+                            <th style="font-size:13px" scope="col">nombre</th>
+                            <th style="font-size:13px" scope="col">plan cuenta</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button hidden type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade bd-example-modal-lg" id="ModalCentroCosto" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Seleccione un Centro de costo</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <div class="form-group">
+                    <label>Filtrar</label>
+                    <input type="text" class=" mt-2 form-control form-control-sm pull-right rounded-0" style="width:100%" id="search2" placeholder="Buscador">
+                </div>
+
+                <table class="table  mt-4  table-bordered  table-hover" id="ListarCentroCosto">
+                    <thead>
+                        <tr>
+
+                            <th style="font-size:13px" scope="col">codigo</th>
+                            <th style="font-size:13px" scope="col">nombre</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button hidden type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade bd-example-modal-lg" id="ModalProyecto" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Seleccione un Proyecto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <div class="form-group">
+                    <label>Filtrar</label>
+                    <input type="text" class=" mt-2 form-control form-control-sm pull-right rounded-0" style="width:100%" id="search3" placeholder="Buscador">
+                </div>
+
+                <table class="table  table-bordered  mt-4  table-hover" id="ListarProyecto">
+                    <thead>
+                        <tr>
+
+                            <th style="font-size:13px" scope="col">codigo</th>
+                            <th style="font-size:13px" scope="col">nombre</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button hidden type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade bd-example-modal-lg" id="ModalFoto" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Seleccione imagen y guarde.</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+
+                <form onsubmit="GuardarImagen(event);">
+
+                    <div>
+                        <input id="files" class="form-control form-control-sm" type="file" size="1" multiple required />
+                    </div>
+
+                    <div class="mt-1 pb-2">
+                        <button type="submit" style="background-color:#0abbec; border-color:#5abeda ;" class="btn rounded-0 btn-primary btn-sm shadow font-weight-bold mt-3 float-right"> Guardar imagen </button>
+                    </div>
+
+
+                </form>
+
+
+
+
+            </div>
+
+            <div class="modal-footer">
+                <button hidden type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade bd-example-modal-lg" id="ModalBoleta" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog " role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Seleccione datos documeto</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <form method="post" onsubmit="Boleta(event);">
+
+                    <div class="form-group">
+                        <label class="text-dark text-left " style="font-weight: 500;">Numero documento <span class="text-danger"> * </span> </label>
+                        <input type="number" class=" mt-2 form-control form-control-sm pull-right rounded-0" style="width:100%" id="numero_boleta" placeholder="Buscador" required>
+                    </div>
+
+                    <div class="form-group mt-3">
+                        <label class="text-dark text-left " style="font-weight: 500;">Tipo Documento <span class="text-danger"> * </span> </label>
+                        <select class="mt-2 form-control form-control-sm pull-right rounded-0" id="tipo_boleta" required>
+                            <option value="" hidden></option>
+                            <option value="0" hide>Boleta</option>
+                            <option value="1" hide>Factura</option>
+                        </select>
+                    </div>
+
+
+                    <div class="row ">
+
+
+
+                        <div class="mt-1 pb-2">
+                            <button type="submit" style="background-color:#0abbec; border-color:#5abeda ;" class="btn rounded-0 btn-primary btn-sm shadow font-weight-bold mt-3 float-right">   Registrar documento </button>
+                        </div>
+
+                    </div>
+
+                </form>
+
+
+            </div>
+
+            <div class="modal-footer">
+                <button hidden type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts {
+    <script src="~/js/API/documentos/SolicitudRendicion.js"></script>
+    <script>
+        $("#menu-toggle").click(function (e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+    </script>
+
+
+}

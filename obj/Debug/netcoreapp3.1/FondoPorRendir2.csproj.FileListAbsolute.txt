@@ -1,0 +1,492 @@
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\FondoPorRendir2.exe
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\FondoPorRendir2.deps.json
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.json
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.dev.json
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.dll
+C:\Users\vicente\source\repos\FondoPorRendir2\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.csprojAssemblyReference.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfoInputs.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfo.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CoreCompileInputs.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.input.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.output.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorCoreGenerate.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.Manifest.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.xml
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.genruntimeconfig.cache
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CopyComplete
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Login\Ingresar.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Login\Dashboard.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Master\Home.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMaster.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Master\Sociedad.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Master\Licencia.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Master\Roles.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Master\Usuario.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Home.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Home.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdministrador.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAutorizador.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Home.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Articulos.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\CentroCosto.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\PlanCuenta.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Proyectos.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Master\Logo.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Master\UsuarioSap.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudFondo.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionAprobacion.cshtml.g.cs
+C:\Users\vicente\source\repos\FondoPorRendir2\obj\Debug\netcoreapp3.1\Razor\Views\Master\AsignacionJefe.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.exe
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.deps.json
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.json
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.dev.json
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.dll
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csprojAssemblyReference.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfoInputs.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfo.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CoreCompileInputs.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.input.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.output.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorCoreGenerate.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Articulos.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionAprobacion.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\CentroCosto.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Home.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\PlanCuenta.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Proyectos.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Home.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Login\Dashboard.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Login\Ingresar.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\AsignacionJefe.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Home.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Licencia.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Logo.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Roles.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Sociedad.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Usuario.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\UsuarioSap.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdministrador.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAutorizador.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMaster.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Home.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.Manifest.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.xml
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.genruntimeconfig.cache
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CopyComplete
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Sincronizacion.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Modulos.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Aprobaciones.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Desktop\KYROS PRACTICA\B1 EXPENSES\v0.1\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Validacion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.exe
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.deps.json
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.json
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.dev.json
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.dll
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csprojAssemblyReference.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfoInputs.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfo.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CoreCompileInputs.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.input.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.output.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorCoreGenerate.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AprobacionJefeRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Articulos.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionAprobacion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionCC.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\CentroCosto.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Home.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Modulos.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Perfil.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\PlanCuenta.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Proyectos.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Sincronizacion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Validacion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Aprobaciones.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionesRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionJefeRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Home.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Perfil.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Login\Dashboard.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Login\Ingresar.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\AsignacionJefe.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Home.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Licencia.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Logo.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Perfil.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Roles.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Sociedad.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Usuario.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\UsuarioSap.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdministrador.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAutorizador.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMaster.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AprobacionJefeRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Historial.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Home.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Perfil.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.Manifest.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.xml
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.genruntimeconfig.cache
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CopyComplete
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Historial.cshtml.g.cs
+C:\Users\Vicente\Documents\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Historial.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.exe
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.deps.json
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.json
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.dev.json
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.dll
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csprojAssemblyReference.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfoInputs.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfo.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CoreCompileInputs.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.input.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.output.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorCoreGenerate.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AprobacionJefeRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Articulos.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionAprobacion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionCC.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\CentroCosto.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Historial.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Home.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Modulos.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Perfil.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\PlanCuenta.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Proyectos.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Sincronizacion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Validacion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Aprobaciones.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionesRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionJefeRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Historial.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Home.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Perfil.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Login\Dashboard.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Login\Ingresar.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\AsignacionJefe.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Home.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Licencia.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Logo.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Perfil.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Roles.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Sociedad.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Usuario.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\UsuarioSap.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdministrador.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAutorizador.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMaster.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AprobacionJefeRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Historial.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Home.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Perfil.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cs
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.Manifest.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.xml
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.genruntimeconfig.cache
+C:\Users\Vicente\Documents\Proyectos\B1EXPENSES\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CopyComplete
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.exe
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.deps.json
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.json
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.dev.json
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.dll
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.dll
+D:\B1E\Frontend\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csprojAssemblyReference.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfoInputs.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfo.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CoreCompileInputs.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.MvcApplicationPartsAssemblyInfo.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.Manifest.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.xml
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\FondoPorRendir2.styles.css
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.input.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.output.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorCoreGenerate.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AprobacionJefe.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AprobacionJefeRendicion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Articulos.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionAprobacion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionCC.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\CentroCosto.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Historial.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Home.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisFondos.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisRendiciones.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Modulos.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Perfil.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\PlanCuenta.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Proyectos.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Sincronizacion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudFondo.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudRendicion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Validacion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Aprobaciones.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionesRendicion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionJefe.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionJefeRendicion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Historial.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Home.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisFondos.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisRendiciones.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Perfil.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudFondo.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudRendicion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Login\Dashboard.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Login\Ingresar.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\AsignacionJefe.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Home.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Licencia.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Logo.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Perfil.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Roles.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Sociedad.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\Usuario.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Master\UsuarioSap.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdministrador.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAutorizador.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMaster.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AprobacionJefe.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AprobacionJefeRendicion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Historial.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Home.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisFondos.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisRendiciones.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Perfil.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudFondo.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudRendicion.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cs
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.dll
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.genruntimeconfig.cache
+D:\B1E\Frontend\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CopyComplete
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\FondoPorRendir2.exe
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\FondoPorRendir2.deps.json
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.json
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\FondoPorRendir2.runtimeconfig.dev.json
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.dll
+C:\Users\Vicente\Desktop\F\bin\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.csprojAssemblyReference.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfoInputs.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.AssemblyInfo.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CoreCompileInputs.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorAssemblyInfo.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.Manifest.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\staticwebassets\FondoPorRendir2.StaticWebAssets.xml
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\scopedcss\bundle\FondoPorRendir2.styles.css
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.input.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.TagHelpers.output.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorCoreGenerate.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AprobacionJefeRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Articulos.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionAprobacion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\AsignacionCC.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\CentroCosto.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Historial.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Home.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Modulos.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Perfil.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\PlanCuenta.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Proyectos.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Sincronizacion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Administrador\Validacion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Aprobaciones.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionesRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\AprobacionJefeRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Historial.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Home.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\Perfil.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Autorizador\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Login\Dashboard.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Login\Ingresar.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Master\AsignacionJefe.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Master\Home.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Master\Licencia.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Master\Logo.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Master\Perfil.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Master\Roles.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Master\Sociedad.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Master\Usuario.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Master\UsuarioSap.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdministrador.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAutorizador.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMaster.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutUsuario.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AprobacionJefe.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AprobacionJefeRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Historial.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Home.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisFondos.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MisRendiciones.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Perfil.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudFondo.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\SolicitudRendicion.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.RazorTargetAssemblyInfo.cs
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.Views.pdb
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.dll
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.pdb
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.genruntimeconfig.cache
+C:\Users\Vicente\Desktop\F\obj\Debug\netcoreapp3.1\FondoPorRendir2.csproj.CopyComplete

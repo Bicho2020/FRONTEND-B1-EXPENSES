@@ -1,0 +1,167 @@
+﻿@{
+    Layout = "_LayoutMaster";
+}
+
+
+<div class="container-fluid mt-3  pb-3" style="display:none;" >
+
+    <div class="row">
+
+        <div class="col-6 col-lg-3">
+
+            <div class="bg-white shadow rounded ">
+
+                <div class="p-2  text-center pt-5" style="height: 215px;" >
+
+                    <H1 class="text-dark" style="font-size:60px; font-weight:600;" id="TotalLicencias">0</H1>
+                    <span style="font-weight:500;" class="text-secondary">Total usuarios con licencias</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+       <div class="col-6 col-lg-3">
+
+            <div class="bg-white shadow rounded ">
+
+                <div class="p-2  text-center pt-5" style="height: 215px;" >
+
+                    <H1 class="text-dark" style="font-size:60px; font-weight:600;" id="TotalSinLicencias">0</H1>
+                    <span style="font-weight:500;" class="text-secondary">Total usuarios sin licencias</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-6 col-lg-3">
+
+            <div class="bg-white shadow rounded ">
+
+                <div class="p-2  text-center pt-5" style="height: 215px;" >
+
+                    <H1 class="text-dark" style="font-size:60px; font-weight:600;" id="TotalUsuario">0</H1>
+                    <span style="font-weight:500;" class="text-secondary">Total usuarios activos</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+         <div class="col-6 col-lg-3">
+
+            <div class="bg-white shadow rounded ">
+
+                <div class="p-2  text-center pt-5" style="height: 215px;" >
+
+                    <H1 class="text-dark" style="font-size:60px; font-weight:600;" id="TotalSociedades">0</H1>
+                    <span style="font-weight:500;" class="text-secondary">Total sociedades activas</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-12 col-lg-5 mt-3 ">
+
+
+            <div class="bg-white shadow rounded ">
+
+                <figure class="highcharts-figure">
+                    <div id="TOP10FONDOS"></div>
+
+                </figure>
+
+            </div>
+
+        </div>
+
+        <div class="col-12 col-lg-7 mt-3   ">
+
+
+                <div class="bg-white shadow rounded  ">
+
+
+                    <figure class="highcharts-figure">
+
+                        <div id="TOTALSOLICITUDESMESFONDOS"></div>
+
+                    </figure>
+
+                </div>
+
+           
+
+        </div>
+
+        
+         <div class="col-12 col-lg-5 mt-3 ">
+
+
+            <div class="bg-white shadow rounded ">
+
+                <figure class="highcharts-figure">
+                    <div id="TOP10RENDICION"></div>
+
+                </figure>
+
+            </div>
+
+        </div>
+
+        <div class="col-12 col-lg-7 mt-3   ">
+
+
+                <div class="bg-white shadow rounded  ">
+
+
+                    <figure class="highcharts-figure">
+
+                        <div id="TOTALSOLICITUDESMESRENDICION"></div>
+
+                    </figure>
+
+                </div>
+
+           
+
+        </div>
+
+        
+     
+
+        
+
+    </div>
+
+</div>
+
+   
+
+
+
+
+
+
+    @section scripts {
+
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+        <script src="https://code.highcharts.com/modules/export-data.js"></script>
+        <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+        <script>
+            $("#menu-toggle").click(function (e) {
+                e.preventDefault();
+                $("#wrapper").toggleClass("toggled");
+            });
+        </script>
+
+
+    }

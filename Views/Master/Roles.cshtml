@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "_LayoutMaster";
+}
+
+
+<div class="row">
+
+    <div class="col-lg-8 col-sm-12 col-md-12 col-12   pt-3 ">
+
+        <div class="col-12 shadow bg-white  pb-2 border  ">
+
+            <div style="background-color: #0abbec;" class="  p-2 ">
+
+                <div class="float-left ml-3">
+                    <span style="font-size: 18px;" class="text-white font-weight-bold ">Asignación de roles</span>
+                </div>
+
+                <br>
+
+            </div>
+
+            <div class="p-2">
+                <input type="type" class="form-control form-control-sm rounded-0 mt-2 w-50 " placeholder="Filtrar usuarios" id="FiltroUsuario" />
+            </div>
+
+
+            <div class="table-responsive p-2 ">
+
+                <table class="table table-striped table-bordered  table-hover" id="records_table_3">
+
+                    <thead class="thead-dark ">
+                        <tr>
+
+                            <th scope="col" class="text-center" style="font-size: 14px; font-weight: 500;">Rut</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Nombre</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Apellido</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Asignar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+
+
+  
+
+
+</div>
+
+
+@section scripts {
+
+    <script src="~/js/API/Master/RolesAPI.js"></script>
+
+    <script>
+        $("#menu-toggle").click(function (e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+    </script>
+
+
+}

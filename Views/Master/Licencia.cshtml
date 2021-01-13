@@ -1,0 +1,98 @@
+﻿@{
+    Layout = "_LayoutMaster";
+}
+
+
+<div class="row">
+    <div class="col-lg-7 col-sm-12 col-md-12 col-12   pt-3 ">
+
+        <div class="col-12 shadow bg-white  pb-2 border  ">
+
+            <div style="background-color: #0abbec; " class="  p-2 ">
+
+                <div class="float-left ml-3">
+                    <span style="font-size: 18px;" class="text-white font-weight-bold ">Asignacion de licencias</span>
+                </div>
+
+                <br>
+
+            </div>
+
+            <div class="p-2">
+                <input type="type" class="form-control form-control-sm rounded-0 mt-2 w-50  " placeholder="Filtrar usuarios" id="FiltroUsuarios" />
+
+            </div>
+
+            <div class="table-responsive p-2">
+
+                <table class="table table-striped table-bordered  table-hover  " id="TablaListarUsuarios">
+
+                    <thead class="thead-dark  ">
+                        <tr>
+                            <th width="20px" scope="col" class="text-center"></th>
+                            <th scope="col" class="text-center" style="font-size: 14px; font-weight: 500;">Rut</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Nombres</th>
+                            <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Detalle</th>
+                            <th scope="col" class="text-center " style="font-size: 13px; font-weight: 500;">Asignar</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="col-lg-5 col-sm-12 col-md-12 col-12   pt-3 ">
+
+        <div class="col-12 shadow bg-white  pb-2 border  ">
+
+            <div style="background-color: #0abbec; " class="  p-2 ">
+
+                <div class="float-left ml-3">
+                    <span style="font-size: 18px;" class="text-white font-weight-bold ">Total licencias</span>
+                </div>
+
+                <br>
+
+            </div>
+
+            <div class="table-responsive">
+
+                <table class="table table-striped table-bordered  table-hover" id="TablaListarLicenciasTotal">
+
+                    <thead class="thead-dark" id="thead">
+                    <th scope="col" class="text-center" style="font-size: 14px; font-weight: 500;">Nombre</th>
+                    <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Fecha caducidad</th>
+                    <th scope="col" class="text-center" style="font-size: 13px; font-weight: 500;">Total</th>
+
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section scripts {
+
+
+    <script src="~/js/API/Master/LicenciasAPI.js"></script>
+    <script>
+        $("#menu-toggle").click(function (e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+    </script>
+
+
+}

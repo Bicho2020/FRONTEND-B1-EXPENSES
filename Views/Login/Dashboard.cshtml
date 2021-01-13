@@ -1,0 +1,73 @@
+﻿@{
+    Layout = "_LayoutLogin";
+}
+
+<body style="background:rgb(245, 245, 247);">
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-white container-fluid">
+
+
+        <img height="30px" alt="" src="~/img/logo.png" />
+
+
+        <div class="justify-content-end  nav navbar-nav ml-auto ">
+
+            <button type="submit" onclick="Cerrar()" style="background:#00b1e4; border-color:#0abbec;" class="btn rounded-0 btn-primary  btn-sm shadow font-weight-bold ">Cerrar sesion</button>
+
+        </div>
+
+    </nav>
+
+    <div class="container">
+
+
+        <div class="row justify-content-center pt-5">
+            <div class="col-12 col-lg-6">
+
+                <div class="container">
+
+                    <h3 class="text-dark font-weight-bold ">Bienvenido querido usuario ,  <span id="nombres" class="text-info font-weight-bold"></span> </h3>
+
+                </div>
+
+                <div class="rounded-0 mt-4  p-4  bg-white shadow">
+
+                    <form onsubmit="SociedadSeleccionada(event)">
+
+                        <label style="font-size: 20px;" for="myselect">Seleccione una sociedad</label>
+
+                        <select class="form-control w-100 rounded-0 mt-3" id="myselect">
+                            <option hidden selected>Seleccione sociedad</option>
+                        </select>
+
+                        <div class=" justify-content-end text-right mt-3 ">
+
+                            <button type="submit" style="background:#00b1e4; border-color:#0abbec;" class="btn rounded-0 btn-primary  btn-sm shadow font-weight-bold ">Seleccionar</button>
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    @section scripts {
+
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+        <script src="~/js/API/Login/dashboardAPI.js"></script>
+    }
+
+
+
+</body>
+
+
+
+

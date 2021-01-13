@@ -1,0 +1,311 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>MANAGER</title>
+
+    <link rel="stylesheet" href="~/css/style.css">
+    <link href="~/css/bootstrap.css" rel="stylesheet">
+    <link href="~/css/simple-sidebar.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+
+
+</head>
+
+<body style="background:rgb(240, 242, 245);">
+
+    <div class="d-flex" id="wrapper">
+
+        <div class="bg-white border-right" id="sidebar-wrapper">
+
+            <div class="sidebar-heading text-center" style="max-height:75px;min-height:75px;max-width:240px;min-width:240px;">
+
+                <div class="container  text-center mx-auto d-block ">
+
+                    <div class="row text-center mx-auto d-block">
+
+                        <div class="col-12 pt-1 text-center mx-auto d-block">
+
+                            <a href="/administrador/home">
+                                <img id="logo_sociedad" style="width:100%;height:100%;" src="" alt="">
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+            <div class="list-group list-group-flush pt-2 pb-5">
+
+                 <a href="/administrador/home" class="list-group-item list-group-item-action  border"
+                    role="button" aria-expanded="false">
+
+                    <img src="~/img/internet.png" height="19px" class="pr-3" alt="">Home
+                </a>
+
+
+                <a href="#collapseExample1" class="list-group-item list-group-item-action  border"
+                   data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapseExample">
+
+                    <img src="~/img/agregar-archivo.png" height="19px" class="pr-3" alt="">Gestion
+                </a>
+
+                <div class="collapse show " id="collapseExample1">
+
+                    <div id="/Administrador/Proyectos" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/Proyectos">
+                            <img src="~/img/Proyectos.png" height="16px" class="pr-2 " alt=""> Proyectos
+                        </a>
+                    </div>
+
+                    <div id="/Administrador/Articulos" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/Articulos">
+                            <img src="~/img/Articulo.png" height="16px" class="pr-2 " alt=""> Articulos
+                        </a>
+                    </div>
+
+                    <div id="/Administrador/CentroCosto" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/CentroCosto">
+                            <img src="~/img/CentroCosto.png" height="16px" class="pr-2 " alt=""> Centros de costos
+                        </a>
+                    </div>
+
+
+                    <div id="/Administrador/PlanCuenta" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/PlanCuenta">
+                            <img src="~/img/PlanCuenta.png" height="16px" class="pr-2 " alt=""> Plan de cuentas
+                        </a>
+                    </div>
+
+
+                </div>
+
+                <a href="#collapseExample3" class="list-group-item list-group-item-action border"
+                   data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapseExample">
+                    <img src="~/img/setting.png" height="19px" class="pr-3" alt="">Configuración
+                </a>
+
+                <div class="collapse show" id="collapseExample3">
+
+
+                    <div id="/Administrador/AsignacionAprobacion" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/AsignacionAprobacion">
+                            <img src="~/img/partner.png" height="16px" class="pr-2 " alt=""> Asignación Aprobacion
+                        </a>
+                    </div>
+
+
+                    <div id="/Administrador/Sincronizacion" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/Sincronizacion">
+                            <img src="~/img/share.png" height="16px" class="pr-2 " alt=""> Sincronización
+                        </a>
+                    </div>
+
+                    <div id="/Administrador/Modulos" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/Modulos">
+                            <img src="~/img/research.png" height="16px" class="pr-2 " alt=""> Modulos
+                        </a>
+                    </div>
+
+
+
+                    <div id="/Administrador/Validacion" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/Validacion">
+                            <img src="~/img/tick.png" height="16px" class="pr-2 " alt="">Vadidación documentos
+                        </a>
+                    </div>
+
+                    <div id="/Administrador/AsignacionCC" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/AsignacionCC">
+                            <img src="~/img/settingCC.png" height="16px" class="pr-2 " alt="">Asignación Centro costo
+                        </a>
+                    </div>
+
+
+                </div>
+
+
+                <a href="#collapseExample2" class="list-group-item list-group-item-action border"
+                   data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapseExample">
+                    <img src="~/img/checklist.png" height="19px" class="pr-3" alt="">Ducumentos
+                </a>
+
+                <div class="collapse show" id="collapseExample2">
+
+                    <div id="/Administrador/SolicitudFondo" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/SolicitudFondo">
+                            <img src="~/img/Proyectos.png" height="16px" class="pr-2 " alt=""> Solicitar Fondo
+                        </a>
+                    </div>
+
+
+                    <div id="/Administrador/MisFondos" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/MisFondos">
+                            <img src="~/img/view.png" height="16px" class="pr-2 " alt=""> Mis Fondos
+                        </a>
+                    </div>
+
+
+                    <div id="/Administrador/SolicitudRendicion" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/SolicitudRendicion">
+                            <img src="~/img/bill.png" height="16px" class="pr-2 " alt=""> Crear Rendición
+                        </a>
+                    </div>
+
+                    <div id="/Administrador/MisRendiciones" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/MisRendiciones">
+                            <img src="~/img/view.png" height="16px" class="pr-2 " alt=""> Mis Rendiciones
+                        </a>
+                    </div>
+
+                
+
+                </div>
+
+                <a href="#collapseExample4" class="list-group-item list-group-item-action border"
+                   data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapseExample">
+                    <img src="~/img/prueba.png" height="19px" class="pr-3" alt="">Aprobaciones
+                </a>
+
+                <div class="collapse show" id="collapseExample4">
+
+                    <div id="/Administrador/AprobacionJefe" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/AprobacionJefe">
+                            <img src="~/img/file.png" height="16px" class="pr-2 " alt="">Fondos por rendir
+                        </a>
+                    </div>
+
+                    <div id="/Administrador/AprobacionJefeRendicion" class="container pt-2 border-bottom pb-2">
+                        <a style="text-decoration: none; font-size: 15px;"
+                           class=" text-dark ml-3   menu-opcion" href="/Administrador/AprobacionJefeRendicion">
+                            <img src="~/img/file.png" height="16px" class="pr-2 " alt="">Rendición
+                        </a>
+                    </div>
+
+                </div>
+
+                <div>
+                    <a href="/Administrador/Historial" class="list-group-item list-group-item-action  bg-white ">
+                        <img src="~/img/reloj.png"
+                             class="pr-3" height="19px" alt="">Historial
+                    </a>
+                </div>
+
+                <div>
+                    <a href="/Administrador/Perfil" class="list-group-item list-group-item-action  bg-white  ">
+                        <img src="~/img/usuario.png"
+                             class="pr-3" height="19px" alt="">Mi perfil
+                    </a>
+                </div>
+
+                <div class=" mt-3 p-2 border text-center" style="background:#fdfdfd;">
+                    <span class="text-dark ">
+                        Tipo usuario : <span class=" ml-3   "
+                                             style="color:#0abbec ; font-weight: 600;">Administrador</span>
+                    </span>
+                </div>
+
+                <div class=" mt-3 p-2 border text-center" style="background:#fdfdfd;">
+                    <span class="text-dark ">
+                        Sociedad Actual :
+                        <span class="text-center" style="color:#0abbec ; font-weight: 700;" id="nombreSociedad"></span>
+
+                    </span>
+                </div>
+
+                <div class=" mt-3 p-2 border text-center" style="background:#fdfdfd;">
+                    <span class="text-dark ">
+                        <span class="text-center" style="color:#0abbec ; font-weight: 700;" id="nombres"></span>
+
+                    </span>
+                </div>
+
+                <button type="submit" onclick="Cerrar()" style="background:#00b1e4; border-color:#0abbec;"
+                        class="btn btn-primary mt-3 ml-2 mr-2  btn-sm shadow font-weight-bold rounded-0 ">
+                    Cerrar sesion
+                </button>
+
+                <button type="submit" border-color:#0abbec;"
+                        class="btn btn-secondary mt-3 ml-2 mr-2  btn-sm shadow font-weight-bold rounded-0 ">
+                    <a style="text-decoration:none;" class="text-white font-weight-bold" href="/login/dashboard">Cambiar sociedad</a>
+                </button>
+
+            </div>
+
+        </div>
+
+        <div id="page-content-wrapper">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom container-fluid ">
+
+
+                <img src="~/img/menu-abierto.png" class="menu-btn" id="menu-toggle" height="24px" alt="">
+
+                <button class="navbar-toggler" style="border:none;" type="button" data-toggle="collapse"
+                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                    <span><i class="fas fa-caret-square-down text-info" style="border:none;"></i></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  
+                </div>
+            </nav>
+
+            <div class="container-fluid   ">
+
+
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+
+
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+
+    <script src="~/js/all.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/API/Administrador/AdministradorHome.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+</body>
+
+
+
+@RenderSection("Scripts", required: false)
+
+</html>
